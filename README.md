@@ -162,6 +162,23 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 
 ### Évaluations sommatives
 
+#### Évaluation 1 : planification
+
+| ID | FORME | INDIVIDUEL OU EN ÉQUIPE | DATE DE L’ÉVALUATION OU DE LA REMISE | % |
+| --- | --- | --- | --- | --- |
+| EVAL-1 | Mise à jour du site Web | Individuel | Mardi de la semaine 2 | 10% |
+
+##### Savoir esssentiels/Crtitères d'évaluation 
+- Dans la page de chaque membre de l’équipe sur le site Web.
+- Planification sur 8 semaines (à partir de la semaine 2).
+- Cinq tâches différentes par semaine (total de 40 entrées).
+- Les tâches doivent être cohérentes avec celles des autres membres de l’équipe et avec le concept du projet, mis à jour en continu.
+Critères :
+    - Intention et concept clairs
+    - Description approfondie de la conception sonore et visuelle
+    - Planification détaillée du contenu multimédia à intégrer
+    - Planification technique rigoureuse. 
+
 | ÉVALUATION <br> # : TITRE – FORME | INDIVIDUEL<br>OU<br>ÉQUIPE | DATE DE L’ÉVALUATION <br> OU DE LA REMISE | % | SAVOIRS ESSENTIELS <br> PRINCIPAUX CRITÈRES D’ÉVALUATION |
 | --- | --- | --- | --- | --- |
 | 1 : Planification – Mise à jour du site Web | Individuel | Mardi de la semaine 2 | 10% | Dans la page de chaque membre de l’équipe sur le site Web.<br>Planification sur 8 semaines (à partir de la semaine 2).<br>Cinq tâches différentes par semaine (total de 40 entrées).<br>Les tâches doivent être cohérentes avec celles des autres membres de l’équipe et avec le concept du projet, mis à jour en continu.<br>Critères : intention et concept clairs; description approfondie de la conception sonore et visuelle; planification détaillée du contenu multimédia à intégrer; planification technique rigoureuse. |
@@ -170,7 +187,7 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 | 3.2 : Dossier de presse – Remise en ligne | Équipe | Mardi de la semaine 6 | 10% | Critères : proposition artistique originale et recherchée; documentation claire et complète de la boucle interactive. |
 | 3.3 : Maquette 2 – Présentation en classe | Équipe | Mardi de la semaine 6 | 10% | Maquette fonctionnelle intégrant des médias visuels et sonores.<br>Critères : démonstration des principes de programmation du produit multimédia. |
 
-### Intégration des apprentissages
+#### Intégration des apprentissages
 
 Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrateur du cours.
 
