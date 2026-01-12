@@ -170,14 +170,14 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 
 ##### Savoir esssentiels et critères d'évaluation 
 - Dans la page de chaque membre de l’équipe sur le site Web.
-- Planification sur 8 semaines (à partir de la semaine 2).
-- Cinq tâches différentes par semaine (total de 40 entrées).
-- Les tâches doivent être cohérentes avec celles des autres membres de l’équipe et avec le concept du projet, mis à jour en continu.
-Critères :
+- Planification sur 9 semaines (8 semaines de cours et 1 semaine de rattrapage) présentant les tâches individuelles hebdomadaires prévues.
+- Au moins une tâche par semaine. Les tâches ne peuvent pas se répéter et doivent être suffisamment précises.
+- Les tâches doivent être cohérentes avec celles des autres membres de l’équipe et avec le concept du projet, et être mises à jour en continu.
+- Critères :
     - Intention et concept clairs
     - Description approfondie de la conception sonore et visuelle
     - Planification détaillée du contenu multimédia à intégrer
-    - Planification technique rigoureuse.
+    - Planification technique rigoureuse
 
  #### Évaluation 2 : maquette 2
 
@@ -252,9 +252,13 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 | EVAL-4-2 | Section de site Web  | Individuel | Vendredi après-midi de la semaine 8 | 15% |
 
 ##### Savoir esssentiels et critères d'évaluation 
-- Une entrée par semaine (8 semaines à partir de la semaine 2).
-- Documentation visuelle et/ou sonore du travail effectué chaque semaine.
+- Une entrée par jour sur 8 semaines (8 semaines à partir de la semaine 2).
+   - Un total d'au moins 40 entrées uniques!
+- Chaque jour :
+    - Documentstion visuelle et/ou sonore du travail effectué
+    - Lien vers les billets GitHub résolus
 - Démarche rigoureuse de validation de la qualité
+- Démonstration d'autonomie.
 - Exécution technique précise et complète.
 - Évaluation réfléchie de la contribution individuelle au travail d’équipe.
 
