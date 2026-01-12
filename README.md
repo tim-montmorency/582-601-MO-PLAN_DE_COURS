@@ -164,11 +164,11 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 
 #### Évaluation 1 : planification
 
-| ID | FORME | INDIVIDUEL OU EN ÉQUIPE | DATE DE L’ÉVALUATION OU DE LA REMISE | % |
+| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-1 | Mise à jour du site Web | Individuel | Mardi de la semaine 2 | 10% |
 
-##### Savoir esssentiels/Crtitères d'évaluation 
+##### Savoir esssentiels et critères d'évaluation 
 - Dans la page de chaque membre de l’équipe sur le site Web.
 - Planification sur 8 semaines (à partir de la semaine 2).
 - Cinq tâches différentes par semaine (total de 40 entrées).
