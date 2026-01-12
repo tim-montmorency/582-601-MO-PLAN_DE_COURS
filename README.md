@@ -54,7 +54,7 @@ Les cours suivants sont préalables absolus au présent cours :
 - [ ] Exposés interactifs
 - [ ] Écoute de pistes sonores
 - [x] Activités coopératives
-- [x] Tutorat individuel ou de petits groupes
+- [x] Tutorat indivIdentificationuel ou de petits groupes
 - [x] En présence
 - [ ] En ligne
 - [ ] Stage en milieu de travail
@@ -63,10 +63,10 @@ Les cours suivants sont préalables absolus au présent cours :
 ## Matériel et volumes requis
 
 - [ ] Disque dur portatif
-- [ ] Carte SD (voir [Guide des étudiants](https://cmontmorency365.sharepoint.com/:w:/r/sites/TIM-TTP/Documents%20partages/comite_politiques/guides/guide_etudiants.docx?d=w48119bb75aec438cbb23c7da3ee1061d&csf=1&web=1&e=mN0PFI))
+- [ ] Carte SD (voir [GuIdentificatione des étudiants](https://cmontmorency365.sharepoint.com/:w:/r/sites/TIM-TTP/Documents%20partages/comite_politiques/guIdentificationes/guIdentificatione_etudiants.docx?d=w48119bb75aec438cbb23c7da3ee1061d&csf=1&web=1&e=mN0PFI))
 - [ ] Clé USB
 - [ ] Cahier ou papiers divers, pour griffonner, conceptualiser, réaliser des croquis et noter vos inspirations
-- [ ] Pour le travail à la maison avec Maya, il vous faut une carte graphique NVIDIA
+- [ ] Pour le travail à la maison avec Maya, il vous faut une carte graphique NVIdentificationIA
 - [ ] Prévoir un budget d’environ 50$ pour des rendus complexes
 - [x] Compte GitHub
 
@@ -79,10 +79,10 @@ Le matériel requis sera prêté. À noter que la procédure de prêt va différ
 ## Règles d'indentification des travaux
 
 À moins d’indication contraire, les remises de travaux doivent être nommées de la manière suivante :
-- Travail individuel : `nom-de-famille_prénom_titre-du-travail_#travail_#cours`
+- Travail indivIdentificationuel : `nom-de-famille_prénom_titre-du-travail_#travail_#cours`
 - Travail d'équipe : `nom-de-famille1_nom-de-famille2_titre-du-travail_#travail_#cours`
 
-Les travaux non identifiés ne seront pas corrigés et les pénalités de retard s’appliqueront.
+Les travaux non Identificationentifiés ne seront pas corrigés et les pénalités de retard s’appliqueront.
 
 ## Horaire
 
@@ -94,7 +94,7 @@ Les travaux non identifiés ne seront pas corrigés et les pénalités de retard
 
 - Formation des comités
 - Stabilisation des équipes
-- Présentation déroulement du cours et validation des équipes 
+- Présentation déroulement du cours et valIdentificationation des équipes 
 - Conception de l’univers et de l’ambiance du projet  
 - Planification du contenu multimédia à intégrer
 - Planification du budget, des tâches et de l’échéancier de réalisation 
@@ -107,12 +107,12 @@ Les travaux non identifiés ne seront pas corrigés et les pénalités de retard
 
 ### Semaine 3
 
-- Inscription quotidienne au journal de bord
+- Inscription quotIdentificationienne au journal de bord
 - **Évaluation 2 : Maquette 1 (portes ouvertes du jeudi 5 février)**
 
 ### Semaine 4
 
-- Inscription quotidienne au journal de bord
+- Inscription quotIdentificationienne au journal de bord
 - Finalisation des constructions (sans fini)
 - Classement des médias 
 - Programmation d’éléments et intégration des médias 
@@ -121,32 +121,32 @@ Les travaux non identifiés ne seront pas corrigés et les pénalités de retard
 
 ### Semaine 5
 
-- Inscription quotidienne au journal de bord
+- Inscription quotIdentificationienne au journal de bord
 - Réalisation, création de contenus, programmation de l’interactivité et intégration des médias 
 - Proposition créative et esthétique 
 - Rigueur, esprit d’équipe et débrouillardise
 
 ### Semaine 6
 
-- Inscription quotidienne au journal de bord
-- **Évaluation 3 : Bande annonce vidéo, Dossier de presse, Maquette 2 (mardi)**
+- Inscription quotIdentificationienne au journal de bord
+- **Évaluation 3 : Bande annonce vIdentificationéo, Dossier de presse, Maquette 2 (mardi)**
 - Installation et adaptation aux différentes plateformes du produit multimédia
 - Vérification de la qualité des médias, conception d’éléments médiatiques et optimisation en fonction de la diffusion
 
 ### Semaine 6.5
 
-- Inscription quotidienne au journal de bord
+- Inscription quotIdentificationienne au journal de bord
 
 ### Semaine 7
 
-- Inscription quotidienne au journal de bord
+- Inscription quotIdentificationienne au journal de bord
 - Application de tests de contrôle de la qualité ; proposition de solutions aux problèmes rencontrés
 - Rigueur, esprit d’équipe et débrouillardise
 
 ### Semaine 8
 
-- Inscription quotidienne au journal de bord
-- **Évaluation 4 : Semaine de présentation (toute la semaine), Documentation vidéo finale, Journal de bord (vendredi)**	
+- Inscription quotIdentificationienne au journal de bord
+- **Évaluation 4 : Semaine de présentation (toute la semaine), Documentation vIdentificationéo finale, Journal de bord (vendredi)**	
 
 ## Évaluation des apprentissages
 
@@ -154,23 +154,23 @@ Les évaluations formatives jouent un rôle crucial dans le processus d'apprenti
  
 D'un autre côté, les évaluations sommatives sont utilisées pour évaluer les acquis et les connaissances de l'étudiant à un moment donné. Elles servent à mesurer la réussite et la maîtrise des objectifs d'apprentissage à la fin d'une période déterminée. Les résultats des évaluations sommatives fournissent une évaluation globale du niveau de compétence atteint par l'étudiant. 
 
-Dans le cas où des étudiants auraient formulé une demande en raison de besoins spécifiques pour bénéficier de temps supplémentaire lors des évaluations, l'enseignant essayera de respecter les recommandations émises pour favoriser le succès de l'étudiant. Cette mesure vise à garantir l'équité et l'accessibilité, permettant à tous les apprenants de démontrer leur compréhension de manière juste et équitable.  Cependant c’est la responsabilité de l’étudiant de faire une demande au SAA (Service d’aide à l’apprentissage) au moins 7 jours avant l’évaluation sommative afin de disposer de leur temps supplémentaire accordé dans leurs locaux.
+Dans le cas où des étudiants auraient formulé une demande en raison de besoins spécifiques pour bénéficier de temps supplémentaire lors des évaluations, l'enseignant essayera de respecter les recommandations émises pour favoriser le succès de l'étudiant. Cette mesure vise à garantir l'équité et l'accessibilité, permettant à tous les apprenants de démontrer leur compréhension de manière juste et équitable.  Cependant c’est la responsabilité de l’étudiant de faire une demande au SAA (Service d’aIdentificatione à l’apprentissage) au moins 7 jours avant l’évaluation sommative afin de disposer de leur temps supplémentaire accordé dans leurs locaux.
 
 ### Évaluations formatives
 
-Comme le cours est en mode intensif, les étudiants devront montrer l'avancement de leurs travaux à chaque semaine. Ces démonstrations se feront lors du **scrum** ou lors de rencontres **individuelles**.
+Comme le cours est en mode intensif, les étudiants devront montrer l'avancement de leurs travaux à chaque semaine. Ces démonstrations se feront lors du **scrum** ou lors de rencontres **indivIdentificationuelles**.
 
 ### Évaluations sommatives
 
 #### Évaluation 1 : planification
 
-| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-1 | Mise à jour du site Web | Individuel | Mardi de la semaine 2 | 10% |
+| EVAL-1 | Mise à jour du site Web | IndivIdentificationuel | Mardi de la semaine 2 | 10% |
 
 ##### Savoir esssentiels et critères d'évaluation 
 - Dans la page de chaque membre de l’équipe sur le site Web.
-- Planification sur 9 semaines (8 semaines de cours et 1 semaine de rattrapage) présentant les tâches individuelles hebdomadaires prévues.
+- Planification sur 9 semaines (8 semaines de cours et 1 semaine de rattrapage) présentant les tâches indivIdentificationuelles hebdomadaires prévues.
 - Au moins une tâche par semaine. Les tâches ne peuvent pas se répéter et doivent être suffisamment précises.
 - Les tâches doivent être cohérentes avec celles des autres membres de l’équipe et avec le concept du projet, et être mises à jour en continu.
 - Critères :
@@ -181,26 +181,26 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 
  #### Évaluation 2 : maquette 2
 
-| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-2 | Présentation publique | Équipe | Portes ouvertes (jeudi de la semaine 3)  | 20% |
 
 ##### Savoir esssentiels et critères d'évaluation 
--  Assemblage cohérent de l’ensemble des éléments développés individuellement par les membres de l’équipe.
+-  Assemblage cohérent de l’ensemble des éléments développés indivIdentificationuellement par les membres de l’équipe.
 
-#### Évaluation 3.1 : bande-annonce vidéo
+#### Évaluation 3.1 : bande-annonce vIdentificationéo
 
-| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-3-1 | Vidéo en ligne | Équipe | Mardi de la semaine 6 | 10% |
+| EVAL-3-1 | VIdentificationéo en ligne | Équipe | Mardi de la semaine 6 | 10% |
 
 ##### Savoir esssentiels et critères d'évaluation 
 - Proposition artistique originale, cohérente et recherchée
-- Qualité visuelle et sonore de la documentation vidéo.
+- Qualité visuelle et sonore de la documentation vIdentificationéo.
 
 #### Évaluation 3.2 : dossier de presse
 
-| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-3-2 | Section de site Web | Équipe | Mardi de la semaine 6 | 10% |
 
@@ -210,7 +210,7 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 
 #### Évaluation 3.3 : maquette 2
 
-| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-3-3 | Présentation en classe| Équipe | Mardi de la semaine 6 | 10% |
 
@@ -224,9 +224,9 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 
 #### Évaluation 4.1 : semaine de présentation
 
-| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-4-1 | Semaine de présentation publique | Équipe | Du lundi au vendredi midi de la semaine 8 | 15% |
+| EVAL-4-1 | Semaine de présentation publique | Équipe | Du lundi au vendredi mIdentificationi de la semaine 8 | 15% |
 
 ##### Savoir esssentiels et critères d'évaluation 
 - Projet artistique riche, inventif et abouti
@@ -234,22 +234,22 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 - Démonstration d’aptitudes professionnelles pertinentes
 - Maîtrise des habiletés et compétences visées par le cours.
 
-#### Évaluation 4.2 : documentation vidéo finale
+#### Évaluation 4.2 : documentation vIdentificationéo finale
 
-| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-4-2 | Remise d'une vidéo en ligne | Équipe | Vendredi après-midi de la semaine 8 | 10% |
+| EVAL-4-2 | Remise d'une vIdentificationéo en ligne | Équipe | Vendredi après-mIdentificationi de la semaine 8 | 10% |
 
 ##### Savoir esssentiels et critères d'évaluation 
 - Documentation et archivage du projet de qualité professionnelle.
 - Démonstration claire de la boucle interactive.
-- Qualité visuelle et sonore de la documentation vidéo.
+- Qualité visuelle et sonore de la documentation vIdentificationéo.
 
 #### Évaluation 4.3 : journal de bord
 
-| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-4-2 | Section de site Web  | Individuel | Vendredi après-midi de la semaine 8 | 15% |
+| EVAL-4-2 | Section de site Web  | IndivIdentificationuel | Vendredi après-mIdentificationi de la semaine 8 | 15% |
 
 ##### Savoir esssentiels et critères d'évaluation 
 - Une entrée par jour sur 8 semaines (8 semaines à partir de la semaine 2).
@@ -257,31 +257,31 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 - Chaque jour :
     - Documentstion visuelle et/ou sonore du travail effectué
     - Lien vers les billets GitHub résolus
-- Démarche rigoureuse de validation de la qualité
+- Démarche rigoureuse de valIdentificationation de la qualité
 - Démonstration d'autonomie.
 - Exécution technique précise et complète.
-- Évaluation réfléchie de la contribution individuelle au travail d’équipe.
+- Évaluation réfléchie de la contribution indivIdentificationuelle au travail d’équipe.
 
 ## Médiagraphie
 
 - Schell, J. (2022). L'art du game design - Nouvelle édition: Se focaliser sur les fondamentaux.
-- Albinet, M. (2022). Concevoir un Jeu Video.
+- Albinet, M. (2022). Concevoir un Jeu VIdentificationeo.
 - Le Breton, R. (2017). Design Narratif: Scénario et expérience de jeu.
 - Kholeif, O. (2023). Internet_Art: From the Birth of the Web to the Rise of NFTs.
 - Kief, H. (2020). Internet ou le retour à la bougie.
-- Burckhardt, A., Galloway, P., et Antonelli, P. (2022). Never Alone: Video Games as Interactive Design.  
+- Burckhardt, A., Galloway, P., et Antonelli, P. (2022). Never Alone: VIdentificationeo Games as Interactive Design.  
 Pereyra, I. (2023). Universal Principles of UX: 100 Timeless Strategies to Create Positive Interactions between People and Technology.
 - Farnell, A. (2010). Designing Sound.
 - Bjørn, K. (2021). PUSH TURN MOVE.
 - Bardiot, C., Derobert, L., Farcet, C., et Guillois, P. (Year). La neige n'a pas de sens - Adrien M et Claire B.
 - Reas, C., et McWilliams, C. (2010). Form+Code in Design, Art, and Architecture: Introductory Book for Digital Design and Media Arts. New York, NY: Princeton Architectural Press.
-- Reas, C. et Fry. B. (2014). Processing: A Programming Handbook for Visual Designers and Artists. (2nd ed.). Cambridge, MA: The MIT Press.
+- Reas, C. et Fry. B. (2014). Processing: A Programming Handbook for Visual Designers and Artists. (2nd ed.). CambrIdentificationge, MA: The MIT Press.
 - Leach, N.,et Yuan, P. F. (2018). Computational Design. Shanghai: Tongji University Press Co., Ltd.
 - Paquin, L.-C. (n.d.). Comprendre les médias interactifs. Récupéré depuis http://www.lcpaquin.com/livre/tdm.html
 - Levin, G., et Brain, T. (2021). Code as Creative Medium.
 - Bianchini, S. et Verhagen, E. (2016). Practicable: From Participation to Interaction in Contemporary Art.
 - Thiery, E.  Les bases de Git. Récupéré depuis http://www2.ift.ulaval.ca/~eude/Gif-1003/Initiation_a_git/Labo%20sur%20Git_fichiers/Les%20bases%20de%20Git.pdf
-- Aide-mémoire GIT. Récupéré https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf
+- AIdentificatione-mémoire GIT. Récupéré https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf
 
 ## Règles d’évaluation des apprentissages 
 
@@ -302,10 +302,10 @@ L’étudiante ou l’étudiant doit garder une copie de sécurité de ses trava
 
 Le travail et l’esprit d’équipe est un pilier important de la création en multimédia. Lors des périodes d’atelier, les étudiants sont invités à se comporter comme s’ils étaient dans le milieu professionnel. 
 
-- Lors des périodes d’atelier, les étudiants sont invités à discuter entre eux tout en maintenant un niveau de voix normal pour échanger sur la matière et développer des relations. Pour aider à la concentration pendant les périodes d’atelier, les étudiants sont invités à utiliser des écouteurs.
-- Aucune forme d’agressivité, d’intimidation ou de violence ne sera tolérée en classe et résultera au minimum en une expulsion. Si des étudiants ne se sentent pas confortables en classe, ils sont invités à en discuter avec le professeur et à sortir de classe pour prendre un moment pour eux.
+- Lors des périodes d’atelier, les étudiants sont invités à discuter entre eux tout en maintenant un niveau de voix normal pour échanger sur la matière et développer des relations. Pour aIdentificationer à la concentration pendant les périodes d’atelier, les étudiants sont invités à utiliser des écouteurs.
+- Aucune forme d’agressivité, d’intimIdentificationation ou de violence ne sera tolérée en classe et résultera au minimum en une expulsion. Si des étudiants ne se sentent pas confortables en classe, ils sont invités à en discuter avec le professeur et à sortir de classe pour prendre un moment pour eux.
 
-Seuls les logiciels et le matériel enseignés peuvent être utilisés dans le cadre du cours. Les téléphones cellulaires et appareils mobiles sont interdits en classe virtuelle et en présentiel et ne font pas partie du matériel enseigné en cours, à moins d’indications contraires de la part du professeur.  Lors du non-respect de ces règles, l’étudiante ou l’étudiant est considéré absent et l’enseignant peut lui demander de quitter la classe.
+Seuls les logiciels et le matériel enseignés peuvent être utilisés dans le cadre du cours. Les téléphones cellulaires et appareils mobiles sont interdits en classe virtuelle et en présentiel et ne font pas partie du matériel enseigné en cours, à moins d’indications contraires de la part du professeur.  Lors du non-respect de ces règles, l’étudiante ou l’étudiant est consIdentificationéré absent et l’enseignant peut lui demander de quitter la classe.
 
 Lors d’un refus d’assumer sa part de travail pendant un travail d’équipe noté, l’étudiante ou l’étudiant sera rencontré par la professeure ou le professeur qui prendra les mesures appropriées à la situation. 
 
