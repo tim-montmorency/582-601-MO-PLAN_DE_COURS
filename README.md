@@ -54,7 +54,7 @@ Les cours suivants sont préalables absolus au présent cours :
 - [ ] Exposés interactifs
 - [ ] Écoute de pistes sonores
 - [x] Activités coopératives
-- [x] Tutorat indivIdentificationuel ou de petits groupes
+- [x] Tutorat invididuel ou en petits groupes
 - [x] En présence
 - [ ] En ligne
 - [ ] Stage en milieu de travail
@@ -158,19 +158,19 @@ Dans le cas où des étudiants auraient formulé une demande en raison de besoin
 
 ### Évaluations formatives
 
-Comme le cours est en mode intensif, les étudiants devront montrer l'avancement de leurs travaux à chaque semaine. Ces démonstrations se feront lors du **scrum** ou lors de rencontres **indivIdentificationuelles**.
+Comme le cours est en mode intensif, les étudiants devront montrer l'avancement de leurs travaux à chaque semaine. Ces démonstrations se feront lors du **scrum** ou lors de rencontres **invididuelles**.
 
 ### Évaluations sommatives
 
 #### Évaluation 1 : planification
 
-| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | invididuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-1 | Mise à jour du site Web | IndivIdentificationuel | Mardi de la semaine 2 | 10% |
+| EVAL-1 | Mise à jour du site Web | invididuel | Mardi de la semaine 2 | 10% |
 
 ##### Savoir esssentiels et critères d'évaluation 
 - Dans la page de chaque membre de l’équipe sur le site Web.
-- Planification sur 9 semaines (8 semaines de cours et 1 semaine de rattrapage) présentant les tâches indivIdentificationuelles hebdomadaires prévues.
+- Planification sur 9 semaines (8 semaines de cours et 1 semaine de rattrapage) présentant les tâches invididuelles hebdomadaires prévues.
 - Au moins une tâche par semaine. Les tâches ne peuvent pas se répéter et doivent être suffisamment précises.
 - Les tâches doivent être cohérentes avec celles des autres membres de l’équipe et avec le concept du projet, et être mises à jour en continu.
 - Critères :
@@ -179,18 +179,18 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
     - Planification détaillée du contenu multimédia à intégrer
     - Planification technique rigoureuse
 
- #### Évaluation 2 : maquette 2
+#### Évaluation 2 : maquette 2
 
-| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | invididuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-2 | Présentation publique | Équipe | Portes ouvertes (jeudi de la semaine 3)  | 20% |
 
 ##### Savoir esssentiels et critères d'évaluation 
--  Assemblage cohérent de l’ensemble des éléments développés indivIdentificationuellement par les membres de l’équipe.
+-  Assemblage cohérent de l’ensemble des éléments développés invididuellement par les membres de l’équipe.
 
 #### Évaluation 3.1 : bande-annonce vIdentificationéo
 
-| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | invididuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-3-1 | VIdentificationéo en ligne | Équipe | Mardi de la semaine 6 | 10% |
 
@@ -200,7 +200,7 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 
 #### Évaluation 3.2 : dossier de presse
 
-| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | invididuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-3-2 | Section de site Web | Équipe | Mardi de la semaine 6 | 10% |
 
@@ -210,7 +210,7 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 
 #### Évaluation 3.3 : maquette 2
 
-| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | invididuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-3-3 | Présentation en classe| Équipe | Mardi de la semaine 6 | 10% |
 
@@ -224,7 +224,7 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 
 #### Évaluation 4.1 : semaine de présentation
 
-| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | invididuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-4-1 | Semaine de présentation publique | Équipe | Du lundi au vendredi mIdentificationi de la semaine 8 | 15% |
 
@@ -236,7 +236,7 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 
 #### Évaluation 4.2 : documentation vIdentificationéo finale
 
-| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | invididuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-4-2 | Remise d'une vIdentificationéo en ligne | Équipe | Vendredi après-mIdentificationi de la semaine 8 | 10% |
 
@@ -247,9 +247,9 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 
 #### Évaluation 4.3 : journal de bord
 
-| Identification | Forme | IndivIdentificationuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | invididuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-4-2 | Section de site Web  | IndivIdentificationuel | Vendredi après-mIdentificationi de la semaine 8 | 15% |
+| EVAL-4-2 | Section de site Web  | invididuel | Vendredi après-mIdentificationi de la semaine 8 | 15% |
 
 ##### Savoir esssentiels et critères d'évaluation 
 - Une entrée par jour sur 8 semaines (8 semaines à partir de la semaine 2).
@@ -260,7 +260,7 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 - Démarche rigoureuse de valIdentificationation de la qualité
 - Démonstration d'autonomie.
 - Exécution technique précise et complète.
-- Évaluation réfléchie de la contribution indivIdentificationuelle au travail d’équipe.
+- Évaluation réfléchie de la contribution invididuelle au travail d’équipe.
 
 ## Médiagraphie
 
