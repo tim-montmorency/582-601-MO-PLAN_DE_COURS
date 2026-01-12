@@ -19,9 +19,7 @@
 
 ### Description du cours
 
-Ce cours vise la réalisation d’un projet multimédia en équipe tel qu’une installation interactive ou une expérience de réalité mixte.
-L’élève collabore à l’élaboration d’un projet multimédia interactif, et ce, de la conception jusqu’à la présentation du produit. 
-Il a l’occasion de mettre en pratique toutes les compétences acquises au cours de sa formation technique.
+Ce cours vise la réalisation d’un projet multimédia en équipe tel qu’une installation interactive ou une expérience de réalité mixte. L’élève collabore à l’élaboration d’un projet multimédia interactif, et ce, de la conception jusqu’à la présentation du produit.  Il a l’occasion de mettre en pratique toutes les compétences acquises au cours de sa formation technique.
 
 ### Objectif intégrateur
 
@@ -79,8 +77,8 @@ Le matériel requis sera prêté. À noter que la procédure de prêt va différ
 ## Règles d'identification des travaux
 
 À moins d’indication contraire, les remises de travaux doivent être nommées de la manière suivante :
-- Travail individuel : `nom-de-famille_prénom_titre-du-travail_#travail_#cours`
-- Travail d'équipe : `nom-de-famille1_nom-de-famille2_titre-du-travail_#travail_#cours`
+- Travail individuel : `nom-de-famille_prénom_identification-du-travail_cours`
+- Travail d'équipe : `nom-de-famille1_nom-de-famille2_identification-du-travail_cours`
 
 Les travaux non identifiés ne seront pas corrigés et les pénalités de retard s’appliqueront.
 
