@@ -7,7 +7,7 @@
 - Programme : Techniques d'intégration multimédia
 - Département du programme : Techniques d'intégration multimédia
 - Session : Hiver 2026
-- Professeurs : Thomas O Fredericks et Guillaume Arseneault
+- Professeurs : Thomas O. Fredericks et Guillaume Arseneault
 - Département des professeurs : Techniques d'intégration multimédia
 - Courriel : Contacter par Teams
 - Bureau : C-1649
@@ -19,9 +19,9 @@
 
 ### Description du cours
 
-Ce cours vise la réalisation d’un projet multimédia en équipe tel  qu’une installation interactive ou une expérience de réalité mixte.
-L’élève collabore à l’élaboration d’un projet multimédia interactif,  et ce, de la conception jusqu’à la présentation du produit. 
-Il a  l’occasion de mettre en pratique toutes les compétences acquises  au cours de sa formation technique.
+Ce cours vise la réalisation d’un projet multimédia en équipe tel qu’une installation interactive ou une expérience de réalité mixte.
+L’élève collabore à l’élaboration d’un projet multimédia interactif, et ce, de la conception jusqu’à la présentation du produit. 
+Il a l’occasion de mettre en pratique toutes les compétences acquises au cours de sa formation technique.
 
 ### Objectif intégrateur
 
@@ -63,11 +63,11 @@ Les cours suivants sont préalables absolus au présent cours :
 ## Matériel et volumes requis
 
 - [ ] Disque dur portatif
-- [ ] Carte SD (voir [GuIdentificatione des étudiants](https://cmontmorency365.sharepoint.com/:w:/r/sites/TIM-TTP/Documents%20partages/comite_politiques/guIdentificationes/guIdentificatione_etudiants.docx?d=w48119bb75aec438cbb23c7da3ee1061d&csf=1&web=1&e=mN0PFI))
+- [ ] Carte SD (voir [Guide des étudiants](https://cmontmorency365.sharepoint.com/:w:/r/sites/TIM-TTP/Documents%20partages/comite_politiques/guides/guide_etudiants.docx?d=w48119bb75aec438cbb23c7da3ee1061d&csf=1&web=1&e=mN0PFI))
 - [ ] Clé USB
 - [ ] Cahier ou papiers divers, pour griffonner, conceptualiser, réaliser des croquis et noter vos inspirations
-- [ ] Pour le travail à la maison avec Maya, il vous faut une carte graphique NVIdentificationIA
-- [ ] Prévoir un budget d’environ 50$ pour des rendus complexes
+- [ ] Pour le travail à la maison avec Maya, il vous faut une carte graphique NVIDIA
+- [ ] Prévoir un budget d’environ 50$ pour des rendus
 - [x] Compte GitHub
 
 Chaque équipe aura un budget d’environ 500$ pour la réalisation de leur projet. 
@@ -94,25 +94,25 @@ Les travaux non identifiés ne seront pas corrigés et les pénalités de retard
 
 - Formation des comités
 - Stabilisation des équipes
-- Présentation déroulement du cours et validation des équipes 
-- Conception de l’univers et de l’ambiance du projet  
+- Présentation du déroulement du cours et validation des équipes 
+- Conception de l’univers et de l’ambiance du projet 
 - Planification du contenu multimédia à intégrer
 - Planification du budget, des tâches et de l’échéancier de réalisation 
 - Planification de la promotion du projet
 
 ### Semaine 2
 
-- Planification technique et détermination des problèmes de production potentiels  
+- Planification technique et détermination des problèmes de production potentiels 
 - **Évaluation 1 : Planification (mardi)**
 
 ### Semaine 3
 
-- Inscriptions quotidienne au journal de bord
-- **Évaluation 2 : Maquette 1 (portes ouvertes du jeudi 5 février)**
+- Inscriptions quotidiennes au journal de bord
+- **Évaluation 2 : maquette 1 (portes ouvertes du jeudi 5 février 2026)**
 
 ### Semaine 4
 
-- Inscriptions au journal de bord
+- Inscriptions quotidiennes au journal de bord
 - Finalisation des constructions (sans fini)
 - Classement des médias 
 - Programmation d’éléments et intégration des médias 
@@ -121,32 +121,32 @@ Les travaux non identifiés ne seront pas corrigés et les pénalités de retard
 
 ### Semaine 5
 
-- Inscription quotidienne au journal de bord
+- Inscriptions quotidiennes au journal de bord
 - Réalisation, création de contenus, programmation de l’interactivité et intégration des médias 
 - Proposition créative et esthétique 
 - Rigueur, esprit d’équipe et débrouillardise
 
 ### Semaine 6
 
-- Inscription quotidienne au journal de bord
-- **Évaluation 3 : Bande annonce vidéo, Dossier de presse, Maquette 2 (mardi)**
+- Inscriptions quotidiennes au journal de bord
+- **Évaluation 3 : bande-annonce vidéo - dossier de presse - maquette 2 (mardi)**
 - Installation et adaptation aux différentes plateformes du produit multimédia
 - Vérification de la qualité des médias, conception d’éléments médiatiques et optimisation en fonction de la diffusion
 
 ### Semaine 6.5
 
-- Inscription quotidienne au journal de bord
+- Inscriptions quotidiennes au journal de bord
 
 ### Semaine 7
 
-- Inscription quotidienne au journal de bord
+- Inscriptions quotidiennes au journal de bord
 - Application de tests de contrôle de la qualité ; proposition de solutions aux problèmes rencontrés
 - Rigueur, esprit d’équipe et débrouillardise
 
 ### Semaine 8
 
-- Inscription quotidienne au journal de bord
-- **Évaluation 4 : Semaine de présentation (toute la semaine), Documentation vidéo finale, Journal de bord (vendredi)**	
+- Inscriptions quotidiennes au journal de bord
+- **Évaluation 4 : semaine de présentation (toute la semaine) - documentation vidéo finale - journal de bord (vendredi)**	
 
 ## Évaluation des apprentissages
 
@@ -154,7 +154,7 @@ Les évaluations formatives jouent un rôle crucial dans le processus d'apprenti
  
 D'un autre côté, les évaluations sommatives sont utilisées pour évaluer les acquis et les connaissances de l'étudiant à un moment donné. Elles servent à mesurer la réussite et la maîtrise des objectifs d'apprentissage à la fin d'une période déterminée. Les résultats des évaluations sommatives fournissent une évaluation globale du niveau de compétence atteint par l'étudiant. 
 
-Dans le cas où des étudiants auraient formulé une demande en raison de besoins spécifiques pour bénéficier de temps supplémentaire lors des évaluations, l'enseignant essayera de respecter les recommandations émises pour favoriser le succès de l'étudiant. Cette mesure vise à garantir l'équité et l'accessibilité, permettant à tous les apprenants de démontrer leur compréhension de manière juste et équitable.  Cependant c’est la responsabilité de l’étudiant de faire une demande au SAA (Service d’aide à l’apprentissage) au moins 7 jours avant l’évaluation sommative afin de disposer de leur temps supplémentaire accordé dans leurs locaux.
+Dans le cas où des étudiants auraient formulé une demande en raison de besoins spécifiques pour bénéficier de temps supplémentaire lors des évaluations, l'enseignant essayera de respecter les recommandations émises pour favoriser le succès de l'étudiant. Cette mesure vise à garantir l'équité et l'accessibilité, permettant à tous les apprenants de démontrer leur compréhension de manière juste et équitable. Cependant c’est la responsabilité de l’étudiant de faire une demande au SAA (Service d’aide à l’apprentissage) au moins 7 jours avant l’évaluation sommative afin de disposer de leur temps supplémentaire accordé dans leurs locaux.
 
 ### Évaluations formatives
 
@@ -164,7 +164,7 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 
 #### Évaluation 1 : planification
 
-| Identification | Forme | individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-1 | Mise à jour du site Web | individuel | Mardi de la semaine 2 | 10% |
 
@@ -174,33 +174,33 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 - Au moins une tâche par semaine. Les tâches ne peuvent pas se répéter et doivent être suffisamment précises.
 - Les tâches doivent être cohérentes avec celles des autres membres de l’équipe et avec le concept du projet, et être mises à jour en continu.
 - Critères :
-    - Intention et concept clairs
-    - Description approfondie de la conception sonore et visuelle
-    - Planification détaillée du contenu multimédia à intégrer
-    - Planification technique rigoureuse
+  - Intention et concept clairs
+  - Description approfondie de la conception sonore et visuelle
+  - Planification détaillée du contenu multimédia à intégrer
+  - Planification technique rigoureuse
 
-#### Évaluation 2 : maquette 2
+#### Évaluation 2 : maquette 1
 
-| Identification | Forme | individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-2 | Présentation publique | Équipe | Portes ouvertes (jeudi de la semaine 3)  | 20% |
+| EVAL-2 | Présentation publique | Équipe | Portes ouvertes (jeudi de la semaine 3) | 20% |
 
 ##### Savoirs essentiels et critères d'évaluation 
--  Assemblage cohérent de l’ensemble des éléments développés individuellement par les membres de l’équipe.
+- Assemblage cohérent de l’ensemble des éléments développés individuellement par les membres de l’équipe.
 
 #### Évaluation 3.1 : bande-annonce
 
-| Identification | Forme | individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-3-1 | Vidéo en ligne | Équipe | Mardi de la semaine 6 | 10% |
 
 ##### Savoirs essentiels et critères d'évaluation 
 - Proposition artistique originale, cohérente et recherchée
-- Qualité visuelle et sonore de la documentation identification.
+- Qualité visuelle et sonore de la documentation.
 
 #### Évaluation 3.2 : dossier de presse
 
-| Identification | Forme | individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-3-2 | Section de site Web | Équipe | Mardi de la semaine 6 | 10% |
 
@@ -210,7 +210,7 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 
 #### Évaluation 3.3 : maquette 2
 
-| Identification | Forme | individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-3-3 | Présentation en classe| Équipe | Mardi de la semaine 6 | 10% |
 
@@ -224,7 +224,7 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 
 #### Évaluation 4.1 : semaine de présentation
 
-| Identification | Forme | individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
 | EVAL-4-1 | Semaine de présentation publique | Équipe | Du lundi au vendredi de la semaine 8 | 15% |
 
@@ -234,29 +234,29 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 - Démonstration d’aptitudes professionnelles pertinentes
 - Maîtrise des habiletés et compétences visées par le cours.
 
-#### Évaluation 4.2 : documentation identification finale
+#### Évaluation 4.2 : documentation finale
 
-| Identification | Forme | individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-4-2 | Remise d'une identification en ligne | Équipe | Vendredi après-midi de la semaine 8 | 10% |
+| EVAL-4-2 | Remise d'une vidéo en ligne | Équipe | Vendredi après-midi de la semaine 8 | 10% |
 
 ##### Savoir essentiel et critères d'évaluation 
 - Documentation et archivage du projet de qualité professionnelle.
 - Démonstration claire de la boucle interactive.
-- Qualité visuelle et sonore de la documentation identification.
+- Qualité visuelle et sonore de la documentation.
 
 #### Évaluation 4.3 : journal de bord
 
-| Identification | Forme | individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| Identification | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-4-2 | Section de site Web  | individuel | Vendredi après-midi de la semaine 8 | 15% |
+| EVAL-4-3 | Section de site Web | individuel | Vendredi après-midi de la semaine 8 | 15% |
 
 ##### Savoir essentiel et critères d'évaluation 
 - Une entrée par jour sur 8 semaines (8 semaines à partir de la semaine 2).
-   - Un total d'au moins 40 entrées uniques!
+  - Un total d'au moins 40 entrées uniques!
 - Chaque jour :
-    - Documentation visuelle et/ou sonore du travail effectué
-    - Lien vers les billets GitHub résolus
+  - Documentation visuelle et/ou sonore du travail effectué
+  - Lien vers les billets GitHub résolus
 - Démarche rigoureuse de validation de la qualité
 - Démonstration d'autonomie.
 - Exécution technique précise et complète.
@@ -264,24 +264,24 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 
 ## Médiagraphie
 
-- Schell, J. (2022). L'art du game design - Nouvelle édition: Se focaliser sur les fondamentaux.
-- Albinet, M. (2022). Concevoir un Jeu VIdentificationeo.
-- Le Breton, R. (2017). Design Narratif: Scénario et expérience de jeu.
-- Kholeif, O. (2023). Internet_Art: From the Birth of the Web to the Rise of NFTs.
-- Kief, H. (2020). Internet ou le retour à la bougie.
-- Burckhardt, A., Galloway, P., et Antonelli, P. (2022). Never Alone: VIdentificationeo Games as Interactive Design.  
-Pereyra, I. (2023). Universal Principles of UX: 100 Timeless Strategies to Create Positive Interactions between People and Technology.
-- Farnell, A. (2010). Designing Sound.
-- Bjørn, K. (2021). PUSH TURN MOVE.
-- Bardiot, C., Derobert, L., Farcet, C., et Guillois, P. (Year). La neige n'a pas de sens - Adrien M et Claire B.
-- Reas, C., et McWilliams, C. (2010). Form+Code in Design, Art, and Architecture: Introductory Book for Digital Design and Media Arts. New York, NY: Princeton Architectural Press.
-- Reas, C. et Fry. B. (2014). Processing: A Programming Handbook for Visual Designers and Artists. (2nd ed.). CambrIdentificationge, MA: The MIT Press.
-- Leach, N.,et Yuan, P. F. (2018). Computational Design. Shanghai: Tongji University Press Co., Ltd.
-- Paquin, L.-C. (n.d.). Comprendre les médias interactifs. Récupéré depuis http://www.lcpaquin.com/livre/tdm.html
-- Levin, G., et Brain, T. (2021). Code as Creative Medium.
-- Bianchini, S. et Verhagen, E. (2016). Practicable: From Participation to Interaction in Contemporary Art.
-- Thiery, E.  Les bases de Git. Récupéré depuis http://www2.ift.ulaval.ca/~eude/Gif-1003/Initiation_a_git/Labo%20sur%20Git_fichiers/Les%20bases%20de%20Git.pdf
-- AIdentificatione-mémoire GIT. Récupéré https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf
+- Albinet, M. (2022). *Concevoir un jeu vidéo*. Paris, France : Éditions Eyrolles.
+- Bardiot, C., Derobert, L., Farcet, C., & Guillois, P. (n.d.). *La neige n’a pas de sens : Adrien M et Claire B*. France : Éditions B42.
+- Bianchini, S., & Verhagen, E. (2016). *Practicable: From participation to interaction in contemporary art*. Cambridge, MA : MIT Press.
+- Bjørn, K. (2021). *PUSH TURN MOVE*. Amsterdam, Netherlands : Valiz.
+- Burckhardt, A., Galloway, P., & Antonelli, P. (2022). *Never Alone: Video Games as Interactive Design*. New York, NY : Museum of Modern Art (MoMA).
+- Farnell, A. (2010). *Designing sound*. Cambridge, MA : MIT Press.
+- GitHub Training. (n.d.). *Git cheat sheet*. Récupéré de https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf
+- Kholeif, O. (2023). *Internet_Art: From the birth of the web to the rise of NFTs*. London, UK : Phaidon Press.
+- Leach, N., & Yuan, P. F. (2018). *Computational design*. Shanghai, China : Tongji University Press.
+- Le Breton, R. (2017). *Design narratif : Scénario et expérience de jeu vidéo*. Paris, France : Éditions Eyrolles.
+- Levin, G., & Brain, T. (2021). *Code as creative medium*. Cambridge, MA : MIT Press.
+- Paquin, L.-C. (n.d.). *Comprendre les médias interactifs*. Récupéré de http://www.lcpaquin.com/livre/tdm.html
+- Pereyra, I. (2023). *Universal principles of UX: 100 timeless strategies to create positive interactions between people and technology*. Beverly, MA : Rockport Publishers.
+- Reas, C., & Fry, B. (2014). *Processing: A programming handbook for visual designers and artists* (2e éd.). Cambridge, MA : MIT Press.
+- Reas, C., & McWilliams, C. (2010). *Form+Code in design, art, and architecture*. New York, NY : Princeton Architectural Press.
+- Schell, J. (2022). *L’art du game design : Se focaliser sur les fondamentaux* (éd. française). Paris, France : Dunod.
+- Thiery, E. (n.d.). *Les bases de Git*. Récupéré de http://www2.ift.ulaval.ca/~eude/Gif-1003/Initiation_a_git/Labo%20sur%20Git_fichiers/Les%20bases%20de%20Git.pdf
+
 
 ## Règles d’évaluation des apprentissages 
 
@@ -298,7 +298,7 @@ L’étudiante ou l’étudiant doit aussi conserver tous les fichiers sources e
 
 Comme les fichiers sources des travaux remis par la population étudiante doivent pouvoir être consultés par le corps professoral, les professeurs peuvent refuser tout travail réalisé à partir de bibliothèques, logiciels ou plugiciels piratés. 
 
-Le matériel visuel, sonore ou textuel crée par une IA est considéré comme ayant étant « créé par l’IA » et dans ce sens doit être cité correctement en mentionnant le nom et la version de l’IA. Ne pas le mentionner constitue du plagiat. Il faut aussi mentionner textuellement la requête utilisée pour générer le contenu.
+Le matériel visuel, sonore ou textuel créé par une IA générative est considéré comme étant « créé par l’IA générative » et dans ce sens doit être cité correctement en mentionnant le nom et la version de l’IA générative. Ne pas le mentionner constitue du plagiat. Il faut aussi citer la requête utilisée pour générer le contenu.
 
 ### Climat en classe, éthique et travail en équipe
 
@@ -309,9 +309,9 @@ Le matériel visuel, sonore ou textuel crée par une IA est considéré comme ay
 Le travail et l’esprit d’équipe sont des piliers importants de la création en multimédia. Lors des périodes d’atelier, les étudiants sont invités à se comporter comme s’ils étaient dans le milieu professionnel. 
 
 - Lors des périodes d’atelier, les étudiants sont invités à discuter entre eux tout en maintenant un niveau de voix normal pour échanger sur la matière et développer des relations. Pour aider à la concentration pendant les périodes d’atelier, les étudiants sont invités à utiliser des écouteurs.
-- Aucune forme d’agressivité, d’intimidation ou de violence ne sera tolérée en classe, cela entrainera l’expulsion. Si des étudiants ne se sentent pas confortables en classe, ils sont invités à en discuter avec le professeur et à sortir de classe pour prendre un moment pour eux.
+- Aucune forme d’agressivité, d’intimidation ou de violence ne sera tolérée en classe, cela entraînera l’expulsion. Si des étudiants ne se sentent pas à l’aise en classe, ils sont invités à en discuter avec le professeur et à sortir de classe pour prendre un moment pour eux.
 
-Seuls les logiciels et le matériel enseignés peuvent être utilisés dans le cadre du cours. Les téléphones cellulaires et appareils mobiles sont interdits en classe virtuelle et en présentiel et ne font pas partie du matériel enseigné en cours, à moins d’indications contraires de la part du professeur.  Lors du non-respect de ces règles, l’étudiante ou l’étudiant est déclaré absent et l’enseignant peut lui demander de quitter la classe.
+Seuls les logiciels et le matériel enseignés peuvent être utilisés dans le cadre du cours. Les téléphones cellulaires et appareils mobiles sont interdits en classe virtuelle et en présentiel et ne font pas partie du matériel enseigné en cours, à moins d’indications contraires de la part du professeur. Lors du non-respect de ces règles, l’étudiante ou l’étudiant est déclaré absent et l’enseignant peut lui demander de quitter la classe.
 
 Lors d’un refus d’assumer sa part de travail pendant un travail d’équipe noté, l’étudiante ou l’étudiant sera rencontré par la professeure ou le professeur qui prendra les mesures appropriées à la situation. 
 
