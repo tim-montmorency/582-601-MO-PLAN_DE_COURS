@@ -177,26 +177,86 @@ Critères :
     - Intention et concept clairs
     - Description approfondie de la conception sonore et visuelle
     - Planification détaillée du contenu multimédia à intégrer
-    - Planification technique rigoureuse. 
+    - Planification technique rigoureuse.
 
-| ÉVALUATION <br> # : TITRE – FORME | INDIVIDUEL<br>OU<br>ÉQUIPE | DATE DE L’ÉVALUATION <br> OU DE LA REMISE | % | SAVOIRS ESSENTIELS <br> PRINCIPAUX CRITÈRES D’ÉVALUATION |
+ #### Évaluation 2 : maquette 2
+
+| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| 1 : Planification – Mise à jour du site Web | Individuel | Mardi de la semaine 2 | 10% | Dans la page de chaque membre de l’équipe sur le site Web.<br>Planification sur 8 semaines (à partir de la semaine 2).<br>Cinq tâches différentes par semaine (total de 40 entrées).<br>Les tâches doivent être cohérentes avec celles des autres membres de l’équipe et avec le concept du projet, mis à jour en continu.<br>Critères : intention et concept clairs; description approfondie de la conception sonore et visuelle; planification détaillée du contenu multimédia à intégrer; planification technique rigoureuse. |
-| 2 : Maquette 1 – Présentation publique | Équipe | Portes ouvertes (jeudi de la semaine 3) | 20% | Assemblage cohérent de l’ensemble des éléments développés individuellement par les membres de l’équipe. |
-| 3.1 : Bande-annonce vidéo – Remise en ligne | Équipe | Mardi de la semaine 6 | 10% | Critères : proposition artistique originale, cohérente et recherchée; qualité visuelle et sonore de la documentation vidéo. |
-| 3.2 : Dossier de presse – Remise en ligne | Équipe | Mardi de la semaine 6 | 10% | Critères : proposition artistique originale et recherchée; documentation claire et complète de la boucle interactive. |
-| 3.3 : Maquette 2 – Présentation en classe | Équipe | Mardi de la semaine 6 | 10% | Maquette fonctionnelle intégrant des médias visuels et sonores.<br>Critères : démonstration des principes de programmation du produit multimédia. |
+| EVAL-2 | Présentation publique | Équipe | Portes ouvertes (jeudi de la semaine 3)  | 20% |
 
-#### Intégration des apprentissages
+##### Savoir esssentiels et critères d'évaluation 
+-  Assemblage cohérent de l’ensemble des éléments développés individuellement par les membres de l’équipe.
+
+#### Évaluation 3.1 : bande-annonce vidéo
+
+| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| --- | --- | --- | --- | --- |
+| EVAL-3-1 | Vidéo en ligne | Équipe | Mardi de la semaine 6 | 10% |
+
+##### Savoir esssentiels et critères d'évaluation 
+- Proposition artistique originale, cohérente et recherchée
+- Qualité visuelle et sonore de la documentation vidéo.
+
+#### Évaluation 3.2 : dossier de presse
+
+| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| --- | --- | --- | --- | --- |
+| EVAL-3-2 | Section de site Web | Équipe | Mardi de la semaine 6 | 10% |
+
+##### Savoir esssentiels et critères d'évaluation 
+- Proposition artistique originale et recherchée
+- Documentation claire et complète de la boucle interactive.
+
+#### Évaluation 3.3 : maquette 2
+
+| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| --- | --- | --- | --- | --- |
+| EVAL-3-3 | Présentation en classe| Équipe | Mardi de la semaine 6 | 10% |
+
+##### Savoir esssentiels et critères d'évaluation 
+- Maquette fonctionnelle intégrant des médias visuels et sonores.
+- Démonstration des principes de programmation du produit multimédia.
+
+### Intégration des apprentissages
 
 Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrateur du cours.
 
-| ÉVALUATION <br> # : TITRE – FORME | INDIVIDUEL<br>OU<br>ÉQUIPE | DATE DE L’ÉVALUATION <br> OU DE LA REMISE | % | SAVOIRS ESSENTIELS <br> PRINCIPAUX CRITÈRES D’ÉVALUATION |
-| --- | --- | --- | --- | --- |
-| 4.1 : Semaine de présentation – Présentation publique | Équipe | Du lundi au vendredi midi de la semaine 8 | 15% | Critères : projet artistique riche, inventif et abouti; démonstration des aptitudes à programmer un produit multimédia; démonstration d’aptitudes professionnelles pertinentes; maîtrise des habiletés et compétences visées par le cours. |
-| 4.2 : Documentation vidéo finale – Remise en ligne | Équipe | Vendredi après-midi de la semaine 8 | 10% | Critères : documentation et archivage du projet de qualité professionnelle; démonstration claire de la boucle interactive; qualité visuelle et sonore de la documentation vidéo. |
-| 4.3 : Journal de bord – Remise en ligne | Individuel | Vendredi après-midi de la semaine 8 | 15% | Une entrée par semaine (8 semaines à partir de la semaine 2).<br>Documentation visuelle et/ou sonore du travail effectué chaque semaine.<br>Critères : démarche rigoureuse de validation de la qualité; exécution technique précise et complète; évaluation réfléchie de la contribution individuelle au travail d’équipe. |
+#### Évaluation 4.1 : semaine de présentation
 
+| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| --- | --- | --- | --- | --- |
+| EVAL-4-1 | Semaine de présentation publique | Équipe | Du lundi au vendredi midi de la semaine 8 | 15% |
+
+##### Savoir esssentiels et critères d'évaluation 
+- Projet artistique riche, inventif et abouti
+- Démonstration des aptitudes à programmer un produit multimédia
+- Démonstration d’aptitudes professionnelles pertinentes
+- Maîtrise des habiletés et compétences visées par le cours.
+
+#### Évaluation 4.2 : documentation vidéo finale
+
+| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| --- | --- | --- | --- | --- |
+| EVAL-4-2 | Remise d'une vidéo en ligne | Équipe | Vendredi après-midi de la semaine 8 | 10% |
+
+##### Savoir esssentiels et critères d'évaluation 
+- Documentation et archivage du projet de qualité professionnelle.
+- Démonstration claire de la boucle interactive.
+- Qualité visuelle et sonore de la documentation vidéo.
+
+#### Évaluation 4.3 : journal de bord
+
+| ID | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
+| --- | --- | --- | --- | --- |
+| EVAL-4-2 | Section de site Web  | Individuel | Vendredi après-midi de la semaine 8 | 15% |
+
+##### Savoir esssentiels et critères d'évaluation 
+- Une entrée par semaine (8 semaines à partir de la semaine 2).
+- Documentation visuelle et/ou sonore du travail effectué chaque semaine.
+- Démarche rigoureuse de validation de la qualité
+- Exécution technique précise et complète.
+- Évaluation réfléchie de la contribution individuelle au travail d’équipe.
 
 ## Médiagraphie
 
