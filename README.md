@@ -106,7 +106,7 @@ Les travaux non identifiés ne seront pas corrigés et les pénalités de retard
 ### Semaine 3
 
 - Inscriptions quotidiennes au journal de bord
-- **Évaluation 2 : maquette 1 (portes ouvertes du jeudi 5 février 2026)**
+- **Évaluation 2 : maquette 1 (présentation publique aux portes ouvertes du jeudi 5 février 2026)**
 
 ### Semaine 4
 
@@ -128,6 +128,7 @@ Les travaux non identifiés ne seront pas corrigés et les pénalités de retard
 
 - Inscriptions quotidiennes au journal de bord
 - **Évaluation 3 : bande-annonce vidéo - dossier de presse - maquette 2 (mardi)**
+    - **Présentation publique pendant le trou à l'horaire**
 - Installation et adaptation aux différentes plateformes du produit multimédia
 - Vérification de la qualité des médias, conception d’éléments médiatiques et optimisation en fonction de la diffusion
 
@@ -212,7 +213,7 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 
 | Identification | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-3-3 | Présentation en classe| Équipe | Mardi de la semaine 6 | 10% |
+| EVAL-3-3 | Présentation en classe| Équipe | Présentation publique au trou à l'horaire du mardi de la semaine 6 | 10% |
 
 ##### Savoirs essentiels et critères d'évaluation 
 - Maquette fonctionnelle intégrant des médias visuels et sonores.
