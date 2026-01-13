@@ -192,9 +192,10 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 | --- | --- | --- | --- | --- |
 | EVAL-3-1 | Vidéo en ligne | Équipe | Mardi de la semaine 6 | 10% |
 
-##### Savoirs essentiels et critères d'évaluation 
-- Proposition artistique originale, cohérente et recherchée
-- Qualité visuelle et sonore de la documentation.
+##### Savoirs essentiels et critères d'évaluation
+- Critères :
+    - Proposition artistique originale, cohérente et recherchée
+    - Qualité visuelle et sonore de la documentation.
 
 #### Évaluation 3.2 : dossier de presse
 
@@ -202,9 +203,10 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 | --- | --- | --- | --- | --- |
 | EVAL-3-2 | Section de site Web | Équipe | Mardi de la semaine 6 | 10% |
 
-##### Savoirs essentiels et critères d'évaluation 
-- Proposition artistique originale et recherchée
-- Documentation claire et complète de la boucle interactive.
+##### Savoirs essentiels et critères d'évaluation
+- Critères :
+    - Proposition artistique originale et recherchée
+    - Documentation claire et complète de la boucle interactive.
 
 #### Évaluation 3.3 : maquette 2
 
@@ -214,7 +216,8 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 
 ##### Savoirs essentiels et critères d'évaluation 
 - Maquette fonctionnelle intégrant des médias visuels et sonores.
-- Démonstration des principes de programmation du produit multimédia.
+- Critères :
+    - Démonstration des principes de programmation du produit multimédia.
 
 ### Intégration des apprentissages
 
@@ -227,10 +230,18 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 | EVAL-4-1 | Semaine de présentation publique | Équipe | Du lundi au vendredi de la semaine 8 | 15% |
 
 ##### Savoirs essentiels et critères d'évaluation 
-- Projet artistique riche, inventif et abouti
-- Démonstration des aptitudes à programmer un produit multimédia
-- Démonstration d’aptitudes professionnelles pertinentes
-- Maîtrise des habiletés et compétences visées par le cours.
+- Remplir la section [exposition](https://github.com/tim-montmorency/momo_modele-site-projet-etudiant_25-26/blob/main/exposition/README.md) du site Web
+    - Bien documenter la procédure d'ouverture. Chaque composante de l’installation est détaillée ci-dessous avec :
+        - une description,
+        - les étapes d'ouverture
+        - des liens utiles,
+         des photos de référence.  
+    - Chaque membre est responsable d'une ouverture de l'installation 
+- Critères :
+    - Projet artistique riche, inventif et abouti
+    - Démonstration des aptitudes à programmer un produit multimédia
+    - Démonstration d’aptitudes professionnelles pertinentes
+    - Maîtrise des habiletés et compétences visées par le cours.
 
 #### Évaluation 4.2 : documentation finale
 
@@ -239,9 +250,10 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 | EVAL-4-2 | Remise d'une vidéo en ligne | Équipe | Vendredi après-midi de la semaine 8 | 10% |
 
 ##### Savoir essentiel et critères d'évaluation 
-- Documentation et archivage du projet de qualité professionnelle.
-- Démonstration claire de la boucle interactive.
-- Qualité visuelle et sonore de la documentation.
+- Critères :
+  - Documentation et archivage du projet de qualité professionnelle.
+  - Démonstration claire de la boucle interactive.
+  - Qualité visuelle et sonore de la documentation.
 
 #### Évaluation 4.3 : journal de bord
 
@@ -253,12 +265,13 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 - Une entrée par jour sur 8 semaines (8 semaines à partir de la semaine 2).
   - Un total d'au moins 40 entrées uniques!
 - Chaque jour :
-  - Documentation visuelle et/ou sonore du travail effectué
-  - Lien vers les billets GitHub résolus
-- Démarche rigoureuse de validation de la qualité
-- Démonstration d'autonomie.
-- Exécution technique précise et complète.
-- Évaluation réfléchie de la contribution individuelle au travail d’équipe.
+  - Pour le travail esthétique : documentation visuelle et/ou sonore du travail effectué
+  - Pour le code : lien vers les billets Git résolus
+- Critères :
+  - Démarche rigoureuse de validation de la qualité
+  - Démonstration d'autonomie.
+  - Exécution technique précise et complète.
+  - Évaluation réfléchie de la contribution individuelle au travail d’équipe.
 
 ## Médiagraphie
 
