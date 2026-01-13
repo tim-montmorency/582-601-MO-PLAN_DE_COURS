@@ -213,7 +213,7 @@ Comme le cours est en mode intensif, les étudiants devront montrer l'avancement
 
 | Identification | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-3-3 | Présentation en classe| Équipe | Présentation publique au trou à l'horaire du mardi de la semaine 6 | 10% |
+| EVAL-3-3 | Présentation publique | Équipe | Trou à l'horaire du mardi de la semaine 6 | 10% |
 
 ##### Savoirs essentiels et critères d'évaluation 
 - Maquette fonctionnelle intégrant des médias visuels et sonores.
