@@ -347,3 +347,5 @@ Pour les **stages**, les 225 heures de présence sont nécessaires pour la réus
 - [Article 8.1 Délais de correction des activités d’évaluation](https://www.cmontmorency.qc.ca/wp-content/uploads/images/college/regles-et-reglements/Politique_institutionnelle_evaluation_des_apprentissages_PIEA_2023.pdf#page=19)
 
 Les étudiantes et étudiants peuvent rencontrer le professeur pour discuter des forces et faiblesses d’un travail corrigé 48 heures après sa remise. La professeure ou le professeur peut être joint par courriel ou par Teams. Teams est privilégié et plus rapide. Comptez un délai de deux journées ouvrables pour obtenir un retour, sauf lors de cas exceptionnels.
+
+[![Bandeau promotionnel de la section Métier étudiant](./metier_etudiant.webp)](https://cmontmorency365.sharepoint.com/sites/ZoneMomo/SitePages/tes-etudes/metier-etudiant.aspx)
