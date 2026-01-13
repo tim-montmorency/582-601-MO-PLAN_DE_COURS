@@ -61,7 +61,7 @@ Les cours suivants sont préalables absolus au présent cours :
 ## Matériel et volumes requis
 
 - [ ] Disque dur portatif
-- [ ] Carte SD (voir [Guide des étudiants](https://cmontmorency365.sharepoint.com/:w:/r/sites/TIM-TTP/Documents%20partages/comite_politiques/guides/guide_etudiants.docx?d=w48119bb75aec438cbb23c7da3ee1061d&csf=1&web=1&e=mN0PFI))
+- [x] Carte SD (voir [Guide des étudiants](https://cmontmorency365.sharepoint.com/:w:/r/sites/TIM-TTP/Documents%20partages/comite_politiques/guides/guide_etudiants.docx?d=w48119bb75aec438cbb23c7da3ee1061d&csf=1&web=1&e=mN0PFI))
 - [ ] Clé USB
 - [ ] Cahier ou papiers divers, pour griffonner, conceptualiser, réaliser des croquis et noter vos inspirations
 - [ ] Pour le travail à la maison avec Maya, il vous faut une carte graphique NVIDIA
