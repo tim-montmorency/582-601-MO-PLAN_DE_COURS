@@ -260,7 +260,7 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 
 | Identification | Forme | Individuel ou en équipe | Date de l'évaluation ou de la remise | % |
 | --- | --- | --- | --- | --- |
-| EVAL-4-3 | Section de site Web | individuel | Vendredi après-midi de la semaine 8 | 15% |
+| EVAL-4-3 | Section de site Web | Individuel | Vendredi après-midi de la semaine 8 | 15% |
 
 ##### Savoir essentiel et critères d'évaluation 
 - Une entrée par jour sur 8 semaines (8 semaines à partir de la semaine 2).
