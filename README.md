@@ -282,7 +282,7 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 - Bjørn, K. (2021). *PUSH TURN MOVE*. Amsterdam, Netherlands : Valiz.
 - Burckhardt, A., Galloway, P., & Antonelli, P. (2022). *Never Alone: Video Games as Interactive Design*. New York, NY : Museum of Modern Art (MoMA).
 - Farnell, A. (2010). *Designing sound*. Cambridge, MA : MIT Press.
-- GitHub Training. (n.d.). *Git cheat sheet*. Récupéré de https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf
+- [GitHub Training.](https://training.github.com/) *AIDE-MÉMOIRE GITHUB GIT*. Récupéré de https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf
 - Kholeif, O. (2023). *Internet_Art: From the birth of the web to the rise of NFTs*. London, UK : Phaidon Press.
 - Leach, N., & Yuan, P. F. (2018). *Computational design*. Shanghai, China : Tongji University Press.
 - Le Breton, R. (2017). *Design narratif : Scénario et expérience de jeu vidéo*. Paris, France : Éditions Eyrolles.
@@ -292,7 +292,7 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 - Reas, C., & Fry, B. (2014). *Processing: A programming handbook for visual designers and artists* (2e éd.). Cambridge, MA : MIT Press.
 - Reas, C., & McWilliams, C. (2010). *Form+Code in design, art, and architecture*. New York, NY : Princeton Architectural Press.
 - Schell, J. (2022). *L’art du game design : Se focaliser sur les fondamentaux* (éd. française). Paris, France : Dunod.
-- Thiery, E. (n.d.). *Les bases de Git*. Récupéré de http://www2.ift.ulaval.ca/~eude/Gif-1003/Initiation_a_git/Labo%20sur%20Git_fichiers/Les%20bases%20de%20Git.pdf
+
 
 
 ## Règles d’évaluation des apprentissages 
