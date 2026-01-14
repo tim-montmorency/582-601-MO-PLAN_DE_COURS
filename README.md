@@ -293,8 +293,7 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 - Reas, C., & McWilliams, C. (2010). *Form+Code in design, art, and architecture*. New York, NY : Princeton Architectural Press.
 - Schell, J. (2022). *L’art du game design : Se focaliser sur les fondamentaux* (éd. française). Paris, France : Dunod.
 
-
-
+<!-- typst:pagebreak -->
 ## Règles d’évaluation des apprentissages 
 
 Tous les articles de la [Politique institutionnelle d’évaluation des apprentissages (PIÉA)](https://www.cmontmorency.qc.ca/wp-content/uploads/images/college/regles-et-reglements/Politique_institutionnelle_evaluation_des_apprentissages_PIEA_2023.pdf) s’appliquent à ce cours. 
