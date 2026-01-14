@@ -90,6 +90,7 @@ Les travaux non identifiés ne seront pas corrigés et les pénalités de retard
 
 ### Semaine 1
 
+- Rappel sur la bourse des arts
 - Formation des comités
 - Stabilisation des équipes
 - Présentation du déroulement du cours et validation des équipes 
