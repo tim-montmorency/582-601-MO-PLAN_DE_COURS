@@ -297,8 +297,8 @@ Activité(s) d’évaluation démontrant l’atteinte de l’objectif intégrate
 <!-- typst:pagebreak -->
 ## Dates de désinscription et d’abandon du cours
 
-- 13 février : Date limite de désinscription aux cours sans mention au bulletin.
-- 2 avril : Date limite d’abandon de cours sans échec entraînant une mention au bulletin.
+- 28 janvier : Date limite de désinscription aux cours sans mention au bulletin.
+- 18 février : Date limite d’abandon de cours sans échec entraînant une mention au bulletin.
 
 ## Règles d’évaluation des apprentissages 
 
