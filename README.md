@@ -90,7 +90,14 @@ Les travaux non identifiés ne seront pas corrigés et les pénalités de retard
 
 ### Semaine 1
 
-- Rappel sur la bourse des arts
+- Rappel sur la bourse de la fondation de soutien aux arts de Laval
+    - https://fondationsoutienartslaval.com/
+    - Bourses
+        - Niveau collégial : 1 500 $
+        - Niveau universitaire : 2 000 $
+    - Bourses d’excellence
+        - Niveau collégial : 2 500 $
+        - Niveau universitaire : 3 500 $
 - Formation des comités
 - Stabilisation des équipes
 - Présentation du déroulement du cours et validation des équipes 
